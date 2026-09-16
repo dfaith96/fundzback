@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://fundzback.it.com/sitemap.xml
+Sitemap: https://fundzback.space/sitemap.xml
